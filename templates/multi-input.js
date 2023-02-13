@@ -1,0 +1,1 @@
+${multiInput.getValues().join(' and ')}
